@@ -89,24 +89,7 @@
 > “First solve the problem. Then write the code.” – John Johnson
 
 ---
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: aashirajpoot
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aashirajpoot/aashirajpoot/output/github-contribution-grid-snake.svg" />
+</p>
