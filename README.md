@@ -89,7 +89,3 @@
 > “First solve the problem. Then write the code.” – John Johnson
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aashirajpoot/aashirajpoot/output/github-contribution-grid-snake.svg" />
-</p>
