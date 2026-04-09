@@ -77,8 +77,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aashi-rajpoot-3b6a64265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aashi%20Rajpoot-blue?logo=linkedin&logoColor=white" />
   </a>
 </p>
 
