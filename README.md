@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aashi Rajpoot</h1>
+<h1 align="center">Hi, 👋I'm Aashi Rajpoot</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;DSA+%7C+Java+%7C+Python;Building+Real+World+Projects;Always+Learning+🚀" />
@@ -10,9 +10,8 @@
 
 * 🎓 B.Tech Student (2023–2027)
 * 💡 Passionate about **Software Engineering & Problem Solving**
-* 📊 Interested in **Data Science and Artificial Intelligence/Machine Learning**
+* 📊 Interested in **Data Science and Machine Learning**
 * ⚙️ Currently working on:
-
   * Crop Guide(KNN)
 * 🎯 Goal: Crack top tech companies 🚀
 
