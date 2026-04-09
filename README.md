@@ -10,10 +10,10 @@
 
 * 🎓 B.Tech Student (2023–2027)
 * 💡 Passionate about **Software Engineering & Problem Solving**
-* 📊 Interested in **Simulation, Modeling & Data Structures**
+* 📊 Interested in **Data Science and Artificial Intelligence/Machine Learning**
 * ⚙️ Currently working on:
 
-  * PDF Editor (Streamlit)
+  * Crop Guide(KNN)
 * 🎯 Goal: Crack top tech companies 🚀
 
 ---
@@ -70,7 +70,6 @@
 ## 📌 Featured Projects
 
 * 📄 PDF Editor (Streamlit)
-* 🧠 Hostel Allocation Simulation (SimPy)
 
 ---
 
