@@ -1,89 +1,80 @@
-<h1 align="center">Hi, 👋I'm Aashi Rajpoot</h1>
+# Aashi Rajpoot
+
+**Software Engineering Student | Java Developer |   MERN-Stack Developer**
+
+Building scalable applications, solving real-world problems, and continuously improving through hands-on development and computer science fundamentals.
+
+---
+
+## About
+
+B.Tech student (2023–2027) with a strong interest in Software Engineering, Backend Development, and Machine Learning. Focused on writing clean code, building practical projects, and strengthening problem-solving skills through Data Structures & Algorithms.
+
+---
+
+## Technologies
+
+### Languages
+
+Java • C • C++ • Python • JavaScript
+
+### Frontend
+
+React • HTML • CSS
+
+### Backend
+
+Node.js • Express.js
+
+### Databases
+
+MongoDB • MySQL
+
+### Tools
+
+Git • GitHub • VS Code
+
+---
+
+## Featured Projects
+
+### 🌦️ Weather App
+
+Real-time weather application built with React and OpenWeather API featuring live weather updates and responsive UI.
+
+🔗 Repository: `https://github.com/aashirajpoot/weather-app`
+
+
+### 📄 PDF Editor
+
+Streamlit-based application for PDF processing and document management.
+
+🔗 Repository: `https://github.com/aashirajpoot/pdf-editor`
+
+---
+
+## Current Focus
+
+* Data Structures & Algorithms
+* Backend Engineering
+* Full-Stack Development
+* System Design Fundamentals
+* Machine Learning
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;DSA+%7C+Java+%7C+Python;Building+Real+World+Projects;Always+Learning+🚀" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aashirajpoot&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## Connect
 
-* 🎓 B.Tech Student (2023–2027)
-* 💡 Passionate about **Software Engineering & Problem Solving**
-* 📊 Interested in **Data Science and Machine Learning**
-* ⚙️ Currently working on:
-  * Crop Guide(KNN)
-* 🎯 Goal: Crack top tech companies 🚀
+💼 LinkedIn: https://www.linkedin.com/in/aashi-rajpoot-3b6a64265/
 
----
+📧 Email: [aashirajpoot2004@gmail.com](mailto:aashirajpoot2004@gmail.com)
 
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,git" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aashirajpoot&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aashirajpoot&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashirajpoot&theme=tokyo-night" />
-</p>
-
----
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashirajpoot&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aashirajpoot/aashirajpoot/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashirajpoot&theme=onedark&row=1&column=6" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-* 📄 PDF Editor (Streamlit)
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aashi-rajpoot-3b6a64265/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aashi%20Rajpoot-blue?logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💡 Developer Mindset
-
-> “First solve the problem. Then write the code.” – John Johnson
-
----
+💻 GitHub: https://github.com/aashirajpoot
